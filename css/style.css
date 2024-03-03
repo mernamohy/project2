@@ -1,0 +1,7 @@
+.show{
+    background:red ;
+    color:whitesmoke ;
+    padding: 9px;
+    text-align:center ;
+    transition: all 0.4s linear;
+}
